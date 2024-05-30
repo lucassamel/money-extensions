@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>MoneyExtensionsConverter</PackageId>
     <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Lucas Samel</Authors>   
@@ -15,8 +15,8 @@
     <PackageProjectUrl>https://github.com/lucassamel/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageTags>money;int;decima;converter</PackageTags>
-    <Title>MoneyExtensions</Title>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <Title>MoneyExtensionsConverter</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
